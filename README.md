@@ -22,7 +22,7 @@ expostos, etc). É normalmente integrada cedo no ciclo de desenvolvimento
 ```
 .
 ├── 1_app_vulneravel.py           # código com 6 vulnerabilidades propositais
-├── 3_app_corrigida_final_v2.py   # código corrigido (0 issues no Bandit)
+├── 2_app_corrigida_final_v2.py   # código corrigido (0 issues no Bandit)
 ├── relatorio_bandit_antes.txt    # relatório do Bandit no código vulnerável
 ├── relatorio_v2_zero_issues.txt  # relatório do Bandit no código corrigido
 ├── COMO_APRESENTAR.txt           # roteiro passo a passo da demonstração
