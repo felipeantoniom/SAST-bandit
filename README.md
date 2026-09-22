@@ -74,7 +74,7 @@ Rodar a análise em cada versão do código:
 
 ```bash
 python -m bandit 1_app_vulneravel.py
-python -m bandit 3_app_corrigida_final_v2.py
+python -m bandit 2_app_corrigida_final_v2.py
 ```
 
 > No Windows, se o comando `bandit` não for reconhecido, use sempre
