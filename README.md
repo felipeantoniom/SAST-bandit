@@ -96,3 +96,8 @@ python -m bandit 1_app_vulneravel.py -f txt -o relatorio.txt
 - BANDIT. *Bandit Documentation*. Disponível em: https://bandit.readthedocs.io
 - OWASP. *Static Application Security Testing*. OWASP Foundation.
 - MITRE. *Common Weakness Enumeration (CWE)*. Disponível em: https://cwe.mitre.org
+
+
+
+python -m bandit .\1_app_vulneravel.py -o resultado.txt -f txt
+
