@@ -99,5 +99,5 @@ python -m bandit 1_app_vulneravel.py -f txt -o relatorio.txt
 
 
 
-python -m bandit .\1_app_vulneravel.py -o resultado.txt -f txt
+
 
